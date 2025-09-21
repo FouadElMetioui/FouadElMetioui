@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Cloud**
 
-- 👨‍💻 All of my projects are available at [https://fouad-elmetioui.vercel.app/](https://fouad-elmetioui.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://fouad-elmetioui.vercel.app/](https://portfolio-fouad-el-metioui.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@fouadpro2002](https://medium.com/@fouadpro2002)
 
